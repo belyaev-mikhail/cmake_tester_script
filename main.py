@@ -22,7 +22,7 @@ generator = 'ninja'
 packageName = 'lesson'
 
 logName = 'log.txt'
-jsonFile = 'result.json'
+jsonFile = 'results.json'
 
 branch = 'master'
 
